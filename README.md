@@ -1,6 +1,6 @@
 # Clicked-IBMSkillsBuild-Employee-Attrition-Project
 
-### Machine Learning for Predictive Analytics: Solving Employee Attrition at Bain and Compan
+### Machine Learning for Predictive Analytics: Solving Employee Attrition at Bain and Company
 
 You've been hired as a data analyst on a team working for Bain and Company, a prestigious management consulting firm. One of Bain's high-profile clients is facing an unprecedented amount of employee attrition, or churn, and they want to leverage their company's HR data to gain insights into this problem. Your task is to work closely with Kim Wexler, the Head of HR at the client's organization, to analyze the provided HR dataset, predict employee attrition, and provide actionable recommendations for improving employee retention
 ![image](https://github.com/BQuophi/Clicked-IBMSkillsBuild-Employee-Attrition-Project/assets/92530942/952db675-11cb-4c7f-84d4-34cb98501f90)
