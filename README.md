@@ -32,13 +32,6 @@ As shown below, critically examining the data helped to identify the case of mis
 
 The target variable in this dataset is Attrition, which is a binary indicator (Yes or No) representing whether an employee has left the company or not. This variable is the outcome we aim to predict using the available features.
 
-### Descriptive Statistics
-
-Before diving into any analysis, it's crucial to understand the characteristics of the dataset. We'll calculate descriptive statistics such as mean, median, standard deviation, and quartiles for numerical features, and frequency distributions for categorical features. These insights will help us identify any anomalies, outliers, or skewed distributions that may require further attention during the data preprocessing stage.
-
-![image](https://github.com/BQuophi/Clicked-IBMSkillsBuild-Employee-Attrition-Project/assets/92530942/ead92c4e-c4d0-48a6-af2f-f1e4f6b84614)
-
-
 ### Data Cleaning and Preprocessing
 Real-world datasets often contain imperfections that need to be addressed before any meaningful analysis can be performed. This step is crucial as it ensures that our models are trained on high-quality, reliable data, leading to more accurate and robust predictions.
 
@@ -47,7 +40,15 @@ Missing data is a common issue in datasets, and it can arise due to various reas
 The choice of imputation technique will depend on the nature and extent of missing data, as well as the underlying assumptions and distributions of the features. For example, if the missing data is scattered randomly across the dataset, mean/median imputation may be a suitable approach. However, if the missing data exhibits patterns or is concentrated in specific subgroups, more sophisticated methods like MICE may be required to preserve the relationships between features.
 
 - **In this project analysis, the missing values were minimal and thus were dropped**.
-- 
+
+
+### Descriptive Statistics
+
+Before diving into any analysis, it's crucial to understand the characteristics of the dataset. We'll calculate descriptive statistics such as mean, median, standard deviation, and quartiles for numerical features, and frequency distributions for categorical features. These insights will help us identify any anomalies, outliers, or skewed distributions that may require further attention during the data preprocessing stage.
+
+![image](https://github.com/BQuophi/Clicked-IBMSkillsBuild-Employee-Attrition-Project/assets/92530942/ead92c4e-c4d0-48a6-af2f-f1e4f6b84614)
+
+
 ##  Feature Engineering
 While the existing features in the HR dataset provide valuable insights, we modified and dropped certain features to better capture the underlying patterns and relationships within the data. Feature engineering is a crucial step in enhancing the predictive power of our models.
 
