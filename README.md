@@ -11,7 +11,7 @@ Employee attrition is a critical issue that can have far-reaching consequences f
 ![image](https://github.com/BQuophi/Clicked-IBMSkillsBuild-Employee-Attrition-Project/assets/92530942/cb2db0d9-6c2f-43bd-802e-1a7084fb662b)
 
 The goal of this project is twofold: 
-- first, to identify the factors that contribute to employee attrition, and
+- First, to identify the factors that contribute to employee attrition, and
 - second, to develop a predictive model that can accurately forecast which employees are at risk of leaving the company.
 Armed with these insights, the client can take proactive measures to improve employee satisfaction, implement targeted retention strategies, and ultimately reduce costly attrition rates.
 
