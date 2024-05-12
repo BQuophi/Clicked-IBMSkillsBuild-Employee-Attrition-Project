@@ -12,10 +12,10 @@ Employee attrition is a critical issue that can have far-reaching consequences f
 
 The goal of this project is twofold: 
 - First, to identify the factors that contribute to employee attrition, and
-- second, to develop a predictive model that can accurately forecast which employees are at risk of leaving the company.
+- Second, to develop a predictive model that can accurately forecast which employees are at risk of leaving the company.
 Armed with these insights, the client can take proactive measures to improve employee satisfaction, implement targeted retention strategies, and ultimately reduce costly attrition rates.
 
-Exploring the HR Dataset
+## Exploring the HR Dataset
 The first step in this project is to thoroughly understand the HR dataset provided by Kim Wexler. This dataset contains various features that could potentially influence an employee's decision to stay or leave the company. Let's delve into the specifics:
 Features
 The dataset includes a comprehensive set of features that capture various aspects of an employee's profile, job characteristics, performance, and satisfaction levels. Here are the key features:
@@ -24,7 +24,7 @@ The dataset includes a comprehensive set of features that capture various aspect
 
 One of the first things to do as a analyst is to critically take some time to look at the data to understand its features. This step is crucial because it helps to identify inconsistencies and missing value scenarios. This helps analysts to ask relevant questions during subsequent meetings with the client to understand the data and requirements properly. 
 
-As shown below, critically examining the data helped to identify the case of missing values
+As shown below, critically examining the data helped to identify the case of missing values before even beginning the analysis. 
 
 ![missing-val-img](https://github.com/BQuophi/Clicked-IBMSkillsBuild-Employee-Attrition-Project/assets/92530942/db147317-a4c8-46a3-985e-6dda5a94f692)
 
